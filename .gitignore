@@ -1,2 +1,5 @@
 *.pyc
 dev.db
+*.txt~
+*.html~
+*~
